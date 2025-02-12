@@ -1,0 +1,6 @@
+streamlit
+pandas
+streamlit_dynamic_filters
+plotly
+plotly.express
+openpyxl
